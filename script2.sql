@@ -1,2 +1,6 @@
 SELECT * FROM DUAL union all 
-SELECT * FROM DUAL
+SELECT * FROM DUAL;
+
+----------
+
+--se agregan comentarios
